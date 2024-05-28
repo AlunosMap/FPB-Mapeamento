@@ -6,11 +6,10 @@
     <title>FPB-Mapeamento</title>
 </head>
 <body>
-    <h1>Ola mundo</h1>
+    <h1>Olá mundo</h1>
     <div>
         <h4>ola</h4>
     </div>
-    <h1>ola mundo</h1>
     <h1>ola pessoal</h1>
 </body>
 </html>
